@@ -14,4 +14,4 @@ import { arrayFromRNG } from 'random-array';
 arrayFromRNG( ['123', '456'] // Example Array );
 
 // Expected Output: 123 or 456
-```
+```# random-array
